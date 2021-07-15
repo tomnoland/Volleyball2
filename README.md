@@ -1,9 +1,5 @@
 # Volleyball2
 
-Template for new projects
-
-https://github.com/tomnoland/New-Project-Template/generate
-
 cd /Volumes/Data/Projects
 
 cd ~
