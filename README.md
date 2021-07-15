@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# Volleyball2
 
 Template for new projects
 
@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Volleyball2
 
 hub delete -y tomnoland/$REPO_NAME
 
