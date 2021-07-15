@@ -32,3 +32,14 @@ git pull origin master
 
 "/Applications/NetBeans/Apache NetBeans 11.1.app/Contents/Resources/NetBeans/bin/netbeans" README.md
 
+---
+
+WEBPAGE=\
+./index.html
+
+SAFARI=/Applications/Safari.app
+CHROME="/Applications/Google Chrome.app"
+
+BROWSER=$CHROME
+
+/usr/bin/open -a "$BROWSER" $WEBPAGE
